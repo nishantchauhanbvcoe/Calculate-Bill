@@ -1,0 +1,18 @@
+{
+  "name": "calculatebill",
+  "version": "1.0.0",
+  "description": "For calculation of expenses,bills,loan etc.",
+  "main": "script.js",
+  "scripts": {
+    "prefix:css": "postcss --use autoprefixer -b \"last 10 versions\" style.css -o style.prefixed.css",
+    "devserver": "live-server --browser=firefox",
+    "start": "npm-run-all devserver"
+  },
+  "author": "Nishant",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^6.1.2"
+  }
+}
