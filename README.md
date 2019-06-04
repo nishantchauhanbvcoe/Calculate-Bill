@@ -10,6 +10,9 @@
 Use this tool to calculate total monthly expenses for you and the family members.
 
 Input your monthly Budget.
+
 Then Click on the pictures according to your expenses.
+
 Single Click on any expense will input the expense for a single person.
+
 We will calculate the total annual & monthly expense, loan and other details.
